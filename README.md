@@ -1,7 +1,7 @@
 # Capstone-Project
 This is a proof of my journey of many weeks of learning with Ladies in Tech Africa. My humble beginning Data Analysis.
 
-## Project Title: E Commerce Sales Analysis
+## Project Title: Sales Performance Analysis for a Retail Store.
 ---
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
@@ -43,6 +43,8 @@ Some of the major quesions to be answered in this report include:
 - What is the Total Revenue by region?
 
 ### Data Visualization
+
+
 ---
 
 
