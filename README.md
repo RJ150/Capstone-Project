@@ -39,12 +39,13 @@ At this stage, data was thoroughly cross checked so a to ensure that:
 ---
 Some of the major quesions to be answered in this report include:
 - What is the total sales value by region, product and month?
-- What is the Average Sales per product?3-4ec7-aff9-5c26012c03a0">
+- What is the Average Sales per product?
 
 - What is the Total Revenue by region?
 
 ### Data Visualization
 ---
+<img width="150" alt="Screenshot 2024-11-05 080126" src="https://github.com/user-attachments/assets/fff153f1-2915-428b-a6a0-dc76fc36bc01">
 
 
 
