@@ -45,14 +45,14 @@ Some of the major quesions to be answered in this report include:
 
 ### Data Visualization
 ---
-<img width="150" alt="Screenshot 2024-11-05 080126" src="https://github.com/user-attachments/assets/fff153f1-2915-428b-a6a0-dc76fc36bc01">
 
 
 
 
 
 
----
+
+
 
 
 
